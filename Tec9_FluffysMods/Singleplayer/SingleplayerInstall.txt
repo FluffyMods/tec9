@@ -1,0 +1,5 @@
+Drag all files from the mplowrider folder into
+Update>x64>dlcpacks>mplowrider>dlc.rpf>x64>models>cdimages>weapons.rpf
+
+Drag all the files from mpexecutive into
+Update>x64>dlcpacks>mpexecutive>dlc.rpf>x64>models>cdimages>weapons.rpf
